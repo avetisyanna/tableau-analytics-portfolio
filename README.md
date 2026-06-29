@@ -1,76 +1,93 @@
 # 📊 Tableau Analytics Portfolio
 
-This repository showcases my Tableau analytics portfolio, developed during my studies at ACA. It includes interactive dashboards, data modeling techniques, calculated fields, parameters, Level of Detail (LOD) expressions, and analytical visualizations built using real-world datasets.
+This repository showcases my Tableau analytics portfolio, developed during my studies at the Armenian Code Academy (ACA). It includes interactive dashboards, calculated fields, parameters, Level of Detail (LOD) expressions, and business-focused visualizations built using real-world datasets.
 
-## 🎯 Project Overview
+> **🚧 Work in Progress:** This portfolio is continuously updated as I complete new Tableau projects.
+
+---
+
+# 🎯 Project Overview
 
 The goal of this portfolio is to:
 
 * Practice business intelligence and data visualization with Tableau
 * Build interactive dashboards for analytical reporting
 * Apply data modeling techniques using relationships
-* Demonstrate Tableau skills through practical analytics projects
+* Explore advanced Tableau calculations and analytical features
 * Develop a professional data analytics portfolio
 
-## 🛠 Tech Stack
+---
+
+# 🛠 Tech Stack
 
 * Tableau Desktop
 * Tableau Public
 * CSV Datasets
 * Calculated Fields
-* LOD Expressions
+* Level of Detail (LOD) Expressions
 * Parameters
+* Table Calculations
 * Interactive Dashboards
 
-## 📂 Repository Structure
+---
 
-```text
-tableau-analytics-portfolio/
-│
-├── Session-01-Airbnb-Market-Analysis/
-│   ├── workbook/
-│   ├── screenshots/
-│   └── data/
-│
-├── Session-02-Retail-Sales-Analysis/
-│   ├── workbook/
-│   ├── screenshots/
-│   └── data/
-│
-├── Session-03-...
-│
-└── README.md
-```
+# 📈 Projects
 
-## 📈 Projects
+## Session 01 — Airbnb Market Analysis
 
-### Session 01 — Airbnb Market Analysis
+**Skills Explored**
 
-**Skills:**
-
-* Interactive Dashboard Design
-* Filters & Actions
-* Parameters
+* Dashboard Design
+* Filters & Parameters
 * Time-Series Analysis
-* Scatter Plot
-* Dashboard Layout
+* Scatter Plots
 
-### Session 02 — Retail Sales Analysis
+---
 
-**Skills:**
+## Session 02 — Retail Sales Analysis
+
+**Skills Explored**
 
 * Data Relationships
-* Calculated Fields
-* LOD Expressions
-* Context Filters
-* Parameters
-* Area Chart
-* Highlight Table
-* Scatter Plot
-* Interactive Dashboard
+* Calculated Fields & LOD Expressions
+* Interactive Dashboards
+* Business Visualizations
 
-More Tableau projects will be added as I progress through the ACA Data Analytics Bootcamp.
+---
 
-## 🌐 Tableau Public
+## Session 03 — Advanced Analytics
 
-Tableau Public dashboards will be added here after publication.
+**Skills Explored**
+
+* Advanced Calculations
+* Table Calculations
+* Date Functions
+* Data Modeling
+
+---
+
+## Session 04 — Dashboard Design & Performance
+
+**Skills Explored**
+
+* Dashboard Storytelling
+* UX & Color Theory
+* Interactive Dashboards
+* Performance Optimization
+
+---
+
+## Session 05 — Sales Analysis Dashboard *(In Progress)*
+
+**Skills Explored**
+
+* Executive Dashboard Design
+* KPI Dashboards
+* Sales & Customer Analysis
+* Geographic Analysis
+
+---
+
+More Tableau projects will be added as I continue building my Tableau portfolio.
+
+---
