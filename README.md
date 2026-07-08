@@ -88,6 +88,18 @@ The goal of this portfolio is to:
 
 ---
 
+## Session 06 — Customer Analysis Dashboard *(In Progress)*
+**Skills Explored**
+
+* Customer Behavior Analysis
+* Customer Segmentation
+* RFM Analysis
+* Cohort Retention
+* Frequency Distribution
+* Interactive Customer Dashboard
+
+---
+
 More Tableau projects will be added as I continue building my Tableau portfolio.
 
 ---
