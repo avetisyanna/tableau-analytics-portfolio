@@ -6,7 +6,7 @@ This repository showcases my Tableau analytics portfolio, developed during my st
 
 ---
 
-# 🎯 Project Overview
+# Project Overview
 
 The goal of this portfolio is to:
 
@@ -18,7 +18,7 @@ The goal of this portfolio is to:
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 * Tableau Desktop
 * Tableau Public
@@ -31,7 +31,7 @@ The goal of this portfolio is to:
 
 ---
 
-# 📈 Projects
+# Projects
 
 ## Session 01 — Airbnb Market Analysis
 
