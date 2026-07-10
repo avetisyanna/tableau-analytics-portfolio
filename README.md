@@ -2,11 +2,9 @@
 
 This repository showcases my Tableau analytics portfolio, developed during my studies at the Armenian Code Academy (ACA). It includes interactive dashboards, calculated fields, parameters, Level of Detail (LOD) expressions, and business-focused visualizations built using real-world datasets.
 
-> **🚧 Work in Progress:** This portfolio is continuously updated as I complete new Tableau projects.
-
 ---
 
-# 🎯 Project Overview
+# Project Overview
 
 The goal of this portfolio is to:
 
@@ -18,7 +16,7 @@ The goal of this portfolio is to:
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 * Tableau Desktop
 * Tableau Public
@@ -31,7 +29,7 @@ The goal of this portfolio is to:
 
 ---
 
-# 📈 Projects
+# Projects
 
 ## Session 01 — Airbnb Market Analysis
 
